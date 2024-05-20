@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-###¡Hola 👋! Soy un programador apasionado con un gran interés en aprender y compartir conocimientos sobre programación y nuevas tecnologías. Me encanta trabajar con las siguientes tecnologías:
+### ¡Hola 👋! Soy un programador apasionado con un gran interés en aprender y compartir conocimientos sobre programación y nuevas tecnologías. Me encanta trabajar con las siguientes tecnologías:
 
 - **HTML5:** Para estructurar contenido web semánticamente.
 - **CSS3:** Para diseñar y estilizar sitios web atractivos.
