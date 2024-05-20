@@ -31,7 +31,6 @@
 ## Estadísticas de GitHub 📊
 
 ![Juan Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJosePL&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJosePL&layout=compact&theme=dark)
 
 
