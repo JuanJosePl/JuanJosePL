@@ -1,6 +1,22 @@
-# <img src="banner.gif" alt="Banner image" allowFullScreen>
+# <img src="banner.gif" alt="Banner image" width="100%" allowFullScreen>
 
-## Tecnologias 🖥️ 
+# Holaa 👋
+
+## Sobre mí
+
+¡Hola! Soy un programador apasionado con un gran interés en aprender y compartir conocimientos sobre programación y nuevas tecnologías. Me encanta trabajar con las siguientes tecnologías:
+
+- **HTML5:** Para estructurar contenido web semánticamente.
+- **CSS3:** Para diseñar y estilizar sitios web atractivos.
+- **PHP:** Para desarrollar aplicaciones web del lado del servidor.
+- **JavaScript:** Para añadir interactividad y dinamismo a las páginas web.
+- **Node.js:** Para construir aplicaciones del lado del servidor rápidas y escalables.
+- **Next.js:** Para crear aplicaciones React optimizadas con renderizado del lado del servidor.
+- **NPM:** Para gestionar dependencias de proyectos JavaScript.
+- **React:** Para construir interfaces de usuario modernas y reactivas.
+- **Arch Linux:** Mi sistema operativo de elección por su simplicidad y control total.
+
+## Tecnologías 🖥️ 
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -12,6 +28,18 @@
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-a793b4?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
+## Estadísticas de GitHub 📊
+
 ![Juan Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseP&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJosePl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseP&layout=compact&theme=dark)
+
+
+## Contacto
+
+Si tienes alguna pregunta o simplemente quieres saludar, ¡no dudes en contactarme!
+
+- **Email:** poloj3614@gmail.com
+- **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/juan-jose-polo-tic-/)
+
+Gracias por visitar mi perfil. ¡Espero conectar contigo pronto!
