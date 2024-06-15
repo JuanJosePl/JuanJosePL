@@ -2,19 +2,7 @@
 
 ## Sobre mí
 
-### ¡Hola 👋! Soy un programador apasionado con un gran interés en aprender y compartir conocimientos sobre programación y nuevas tecnologías. Me encanta trabajar con las siguientes tecnologías:
-
-- **HTML5:** Para estructurar contenido web semánticamente.
-- **CSS3:** Para diseñar y estilizar sitios web atractivos.
-- **PHP:** Para desarrollar aplicaciones web del lado del servidor.
-- **JavaScript:** Para añadir interactividad y dinamismo a las páginas web.
-- **Node.js:** Para construir aplicaciones del lado del servidor rápidas y escalables.
-- **Next.js:** Para crear aplicaciones React optimizadas con renderizado del lado del servidor.
-- **NPM:** Para gestionar dependencias de proyectos JavaScript.
-- **React:** Para construir interfaces de usuario modernas y reactivas.
-- **Arch Linux:** Mi sistema operativo de elección por su simplicidad y control total.
-
-## Tecnologías 🖥️ 
+### ¡Hola 👋! Soy un programador apasionado con un gran interés en aprender y compartir conocimientos sobre programación y nuevas tecnologías. Me encanta trabajar con las siguientes tecnologías 🖥️ : 
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
